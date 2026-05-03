@@ -1,0 +1,18 @@
+{
+    "id": 52448794,
+    "name": "smohcs1",
+    "author": "durianhead",
+    "creators": ["durianhead"],
+    "verifier": "blaze",
+    "verification": "https://youtu.be/buTQOuWPt7s?si=ZSY1pjhcZBoQfsfd",
+    "percentToQualify": 56,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Helvetica",
+            "link": "https://youtu.be/oSwlZhw60as?si=YsFLOnsGVqENMSV0",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
